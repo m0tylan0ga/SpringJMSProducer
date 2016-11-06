@@ -1,0 +1,10 @@
+C:\SpringJMSProducer\src\main\java\com\example\models\User.java
+C:\SpringJMSProducer\src\main\java\com\example\senders\MessageTopicSender.java
+C:\SpringJMSProducer\src\main\java\com\example\models\UserDao.java
+C:\SpringJMSProducer\src\main\java\com\example\senders\MessageQueueSender.java
+C:\SpringJMSProducer\src\main\java\com\example\configurations\DBConfig.java
+C:\SpringJMSProducer\src\main\java\com\example\configurations\MessagingConfiguration.java
+C:\SpringJMSProducer\src\main\java\com\example\models\Topic.java
+C:\SpringJMSProducer\src\main\java\com\example\controllers\AppTopicController.java
+C:\SpringJMSProducer\src\main\java\com\example\controllers\AppQueueController.java
+C:\SpringJMSProducer\src\main\java\com\example\SpringJmsApplication.java
